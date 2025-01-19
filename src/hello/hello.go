@@ -1,8 +1,8 @@
-package main
+// package main
 
-import "fmt"
+// import "fmt"
 
-func main() {
-	fmt.Println("Hello World")
-	fmt.Println("My first script in Go!")
-}
+// func main() {
+// 	fmt.Println("Hello World")
+// 	fmt.Println("My first script in Go!")
+// }
